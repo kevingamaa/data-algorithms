@@ -19,5 +19,5 @@ d   l
 o   d
     o 
 
-
 the tree always starts with "null" and then go searching in each child node for the next letter, imagine we type a prefix "Re", the algorithm will find the "R" and then "e" and then with a recursion functionality will take all the words built with this start prefix.
+
